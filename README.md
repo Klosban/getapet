@@ -15,6 +15,14 @@ para a criação de interfaces dinâmicas e interativas. Já no back-end, foram 
 
 Para garantir a segurança das informações dos usuários, o projeto conta com recursos como o bcrypt para criptografar senhas e o jsonwebtoken para autenticar e autorizar as ações dos usuários.
 
+<div align='center'>
+  <img src="./frontend/src/assets/img/getapet1.PNG" width='45%'/>
+  <img src="/frontend/src/assets/img/getapet2.PNG" width='45%'/>
+  <img src="/frontend/src/assets/img/getapet3.PNG" width='45%'/>
+  <img src="/frontend/src/assets/img/getapet4.PNG" width='45%'/>
+  <img src="/frontend/src/assets/img/getapet5.PNG" max-heigth='100px' />
+</div><br/><br/>
+
 ## Tecnologias utilizadas no projeto 💻
 
 ### `Node.js` 🗃
